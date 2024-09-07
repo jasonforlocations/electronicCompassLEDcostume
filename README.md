@@ -21,3 +21,6 @@ Uses a compass to control LEDs on a dance costume
 
 ### Example
 A link to a YouTube video of how it can be used for recreation therapy is https://youtu.be/e3njbTbl6-I.
+
+### Add sound and vibration
+https://docs.google.com/document/d/1mLW1COo-jkQt9B2xpzV2ujktwR1ltUWl/edit?usp=sharing&ouid=102420801851138330130&rtpof=true&sd=true
